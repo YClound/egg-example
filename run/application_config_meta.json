@@ -1,0 +1,279 @@
+{
+  "keys": "/Users/orange/Desktop/work-test/egg-example/config/config.default.js",
+  "middleware": "/Users/orange/Desktop/work-test/egg-example/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "private": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "stop": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "dev": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "debug": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "test": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "cov": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "lint": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "ci": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "autod": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "url": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/orange/Desktop/work-test/egg-example/node_modules/egg/config/config.default.js"
+}
